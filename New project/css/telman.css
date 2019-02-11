@@ -1,0 +1,86 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+img {
+max-width: 100%;
+}
+@media only screen and (max-width: 992px) {
+.brand-logo {
+  width: 78%;
+ margin-left:-57px;
+}
+.button-collapse{
+  margin-left: 470px;
+}
+}
+
+
+@media only screen and (max-width: 411px) {
+.brand-logo {
+      width: 104%;
+    margin-left: 6px;
+    margin-top: -1px;
+
+}
+.button-collapse{
+      margin-left: 336px;
+  position: absolute;
+}
+.lox{
+  display: none;
+}
+.block1 p{
+      margin-left: -204px;
+    width: 404px;
+    margin-top: -30px;
+    height: 41px;
+  font-size: 28px !important;
+}
+#slider-wrap{
+  display: none;
+}
+
+.spanik{
+    font-family: 'HouschkaRounded-Bold' !important;
+    text-align: justify !important;
+    margin-top: -59px !important;
+    padding: 5px !important;
+    margin-bottom: -71px !important;
+    position: absolute !important;
+        top: 67px !important;
+    bottom: 0 !important;
+    right: 13px !important;
+    width: 379px !important;
+    font-size: 17px !important;
+
+    
+}
+
+.border{
+  margin-top: 134px !important;
+    margin-left: 3px !important;
+    width: 405px !important;
+}
+
+.borderchenko {
+  margin-left: -182px !important;
+    position: absolute !important;
+    margin-top: -54px !important;
+}
+.borderchenko span{
+  font-size: 21px !important;;
+   
+}
+
+.block1{
+      background-size: 189% 714px !important;
+}
+
+.container{
+  overflow: hidden;
+  }
+
